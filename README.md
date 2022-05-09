@@ -69,7 +69,11 @@ References
 List of related projects
 ===========
 
-1. [WhoColor](https://github.com/wikiwho/WhoColor)
-2. [whoVIS](https://github.com/wikiwho/whovis)
-3. [IWAAN - Interactive Wikipedia Article Analysis Notebooks](https://github.com/gesiscss/IWAAN) 
-4. [Wikipedia References](https://github.com/gesiscss/wikipedia_references)
+1. [WikiWho Algorithm](https://github.com/wikiwho/WikiWho)
+2. [WhoColor](https://github.com/wikiwho/WhoColor)
+3. [whoVIS](https://github.com/wikiwho/whovis)
+4. [IWAAN - Interactive Wikipedia Article Analysis Notebooks](https://github.com/gesiscss/IWAAN) 
+5. [Wikipedia References](https://github.com/gesiscss/wikipedia_references)
+6. [WikiWho Wrapper](https://github.com/gesiscss/wikiwho_wrapper)
+7. [WikiWho Tutorial](https://github.com/gesiscss/wikiwho_tutorial)
+8. [WikiWho Demo](https://github.com/gesiscss/wikiwho_demo)
