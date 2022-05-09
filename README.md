@@ -6,8 +6,7 @@
 Future of WikiWho
 ==============
 
-The WikiWho API is being transferred to [Wikimedia](https://wikimedia.org/), who will support the project in the future.
-
+The WikiWho API is currently hosted at GESIS ([https://www.wikiwho.net/](https://www.wikiwho.net/)) and at Wikimedia ([https://wikiwho-api.wmcloud.org/](https://wikiwho-api.wmcloud.org/)). In the future, only Wikimedia will continue its support.
 
 Introduction
 ==========
@@ -54,8 +53,6 @@ Contributors
 ===========
 
 WikiWho was first conceived as a dissertation project at [Karlsruhe Institute of Technology](https://www.kit.edu/english/) by [Fabian Flöck](https://f-squared.org/) and collaborators and was then hosted, maintained and further developed at the [GESIS – Leibniz Institute for the Social Sciences, CSS Department](https://www.gesis.org/institut/abteilungen/computational-social-science).
-
-The WikiWho API is being transferred to [Wikimedia](https://wikimedia.org/), who will support the project in the future.
 
 References
 ===========
